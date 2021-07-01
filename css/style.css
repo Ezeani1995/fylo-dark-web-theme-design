@@ -24,6 +24,10 @@
   font-family: Raleway3;
 }
 
+html, body{
+  overflow-x: hidden;
+}
+
 body {
   font-family: Raleway;
   color: #fff;
@@ -484,6 +488,10 @@ p {
                               MEDIA QUERIES
 ====================================================================================*/
 @media screen and (max-width: 768px) {
+   html, body{
+     overflow-x: hidden;
+  }
+
    body{
      overflow-x: hidden;
      position: relative;
@@ -638,6 +646,10 @@ p {
 }
 
 @media (max-width: 375px) {
+  html, body{
+     overflow-x: hidden;
+  }
+
   body{
      overflow-x: hidden;
      position: relative;
