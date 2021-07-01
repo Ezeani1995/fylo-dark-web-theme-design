@@ -488,6 +488,10 @@ p {
      overflow-x: hidden;
      position: relative;
    }
+  
+   .container{
+     max-width: 100%;
+   }
 
   .header {
     padding: 0 15px;
@@ -637,6 +641,10 @@ p {
   body{
      overflow-x: hidden;
      position: relative;
+   }
+
+   .container{
+     max-width: 100%;
    }
 
   li {
