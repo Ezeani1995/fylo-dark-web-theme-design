@@ -484,6 +484,11 @@ p {
                               MEDIA QUERIES
 ====================================================================================*/
 @media screen and (max-width: 768px) {
+   body{
+     overflow-x: hidden;
+     position: relative;
+   }
+
   .header {
     padding: 0 15px;
   }
@@ -629,6 +634,11 @@ p {
 }
 
 @media (max-width: 375px) {
+  body{
+     overflow-x: hidden;
+     position: relative;
+   }
+
   li {
     margin: 0 20px;
   }
