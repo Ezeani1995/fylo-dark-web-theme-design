@@ -1,2 +1,2 @@
 # fylo dark theme web design
-A coding challenge design from frontendmentor.io
+A HTML5/CSS3 design challenge from frontendmentor.io
