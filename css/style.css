@@ -536,7 +536,8 @@ p {
 
   .showcase::after {
     content: url(../img/bg-curvy-mobile.svg);
-    left: -50px;
+    left: 0;
+    width: 100%;
   }
 
   .showcase p {
@@ -674,7 +675,8 @@ p {
   
   .showcase::after {
     content: url(../img/bg-curvy-mobile.svg);
-    left: -50px;
+    left: 0;
+    width: 100%;
   }
 
   h2 {
